@@ -2,6 +2,9 @@ World News
 By Aimen Khakwani & Ayana Powell
 11-17-2016
 
+Description
+--------------------------------
+
 World News is a news site made in Drupal. It uses a feature for a VIP page with 'promotions' that are visible only to authenticated users. It also uses a view for an 'Activist' page, and the Contact module for a contact page.
 
 Installation
