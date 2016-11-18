@@ -1,10 +1,11 @@
-# World News
-#### By Aimen Khakwani & Ayana Powell
-#### 11-17-2016
+World News
+By Aimen Khakwani & Ayana Powell
+11-17-2016
 
-World News is a news site made in Drupal. It uses a feature for a VIP page with 'promotions' that are visible only to authenticated users. It also uses a view for an 'Activist' page, and the Contact module for a contact page. 
+World News is a news site made in Drupal. It uses a feature for a VIP page with 'promotions' that are visible only to authenticated users. It also uses a view for an 'Activist' page, and the Contact module for a contact page.
 
-## Installation
+Installation
+--------------------------------
 
 * `git clone <repository-url>` this repository
 * run MAMP, and in 'Preferences->Web Server' point the Document Root to this folder
@@ -14,7 +15,8 @@ World News is a news site made in Drupal. It uses a feature for a VIP page with 
 * In phpMyAdmin, under 'Privileges', add a User with the username/password for the database user
 * Navigate to localhost:8888 to view the website
 
-## Further Reading / About Drupal
+Further Reading / About Drupal
+--------------------------------
 
 Drupal is an open source content management platform supporting a variety of
 websites ranging from personal weblogs to large community-driven websites. For
@@ -27,7 +29,8 @@ Legal information about Drupal:
  * Learn about the Drupal trademark and logo policy:
    http://drupal.com/trademark
 
-## Configuration and Features
+Configuration and Features
+--------------------------------
 
 Drupal core (what you get when you download and extract a drupal-x.y.tar.gz or
 drupal-x.y.zip file from http://drupal.org/project/drupal) has what you need to
